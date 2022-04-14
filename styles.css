@@ -1,0 +1,17 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background: linear-gradient(70deg, rgb(116, 31, 155), rgb(177, 38, 38));
+}
+
+#campo-letras {
+  font-size: 50px;
+}
+canvas {
+  width: 500px;
+  height: 300px;
+  background-color:rgb(172, 126, 221) ;
+}
+.invisible {
+  display: none;
+}
